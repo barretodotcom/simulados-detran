@@ -4,7 +4,7 @@ import styles from "@/styles/Simulados.module.css";
 
 export default function Simulado() {
   const [questions, setQuestions] = useState<Question[]>([]);
-  const [currentQuestion, setCurrentQuestion] = useState<Question>({});
+  const [currentQuestion, setCurrentQuestion] = useState<Question>({  } as Question);
   const [selected, setSelected] = useState<number | null>(null);
   const [answer, setAnswer] = useState<number | null>(null);
   const [questionIndex, setQuestionIndex] = useState<number>(0);
