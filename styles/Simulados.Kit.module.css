@@ -1,4 +1,4 @@
-.home{
+.main{
   display: flex;
   align-items: center;
   justify-content:center;
@@ -9,29 +9,11 @@
   padding-inline: 10%;
 }
 
-.title-container {
-  color: var(--main-text-color);
-}
-
-.title-container h1{
-  font-size: 4rem;
-}
-
-.title-container ul {
-  margin-left: 4%;
-}
-
-.title-container li{
-  font-size: 1.3rem;
-  margin-block: 2.5%;
-  list-style-type:none;
-  list-style-image: url("../public/li.svg");
-}
-
 .selection-container{
+  margin-top: 3%;
   display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
   width: 100%;
 }
 
@@ -39,6 +21,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 55%;
 }
 
 .options h1 {

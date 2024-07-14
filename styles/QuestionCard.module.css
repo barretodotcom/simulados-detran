@@ -1,0 +1,43 @@
+.card{
+    width: 900px;
+}
+
+.head{
+    font-weight: 500;
+    width: 50%;
+    margin-bottom: 1%;
+}
+
+.options{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.options p {
+    margin-bottom: 1%;
+    margin-left: 1%;
+    border-radius: 1.25rem;
+    border: 1.5px solid var(--main-text-color);
+    box-sizing: border-box;
+    padding: 1%;
+    cursor: pointer;
+    transition-duration: 325ms;
+}
+
+.options p:hover {
+    background-color: var(--main-option-color);
+    border: 1.5px solid var(--main-text-color-light);
+    color: white;
+}
+
+.selected {
+    background-color: var(--main-option-color);
+    border: 1.5px solid var(--main-text-color-light);
+    color: white;
+}
+
+.wrong {
+    background-color: red;
+}

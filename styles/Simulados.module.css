@@ -1,0 +1,69 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    margin-top: 10%;
+}
+
+.confirm-button-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.confirm-button {
+    border-radius: 1.25rem;
+    color: var(--main-option-color);
+    box-sizing: border-box;
+    padding: 1%;
+    cursor: pointer;
+    transition-duration: 425ms;
+    border: 2px solid var(--main-option-color);
+    background-color: white;
+    padding: 2%;
+    width: 48%;
+    font-size: 1rem;
+}
+
+.back-button {
+    border-radius: 1.25rem;
+    color: var(--main-text-color-light);
+    box-sizing: border-box;
+    padding: 1%;
+    cursor: pointer;
+    transition-duration: 425ms;
+    background-color: white;
+    border: 2px solid var(--main-text-color-light);
+    padding: 2%;
+    width: 48%;
+    font-size: 1rem;
+}
+
+.back-button:hover{
+    background-color: rgb(200, 200, 200);
+    color: white;
+}
+
+.confirm-button:hover {
+    background-color: var(--main-option-color);
+    color: white;
+}
+
+.next-button{
+    background-color: var(--main-option-color);
+    color: white;
+    border-radius: 1.25rem;
+    box-sizing: border-box;
+    padding: 1%;
+    cursor: pointer;
+    transition-duration: 425ms;
+    border: 2px solid var(--main-option-color);
+    padding: 2%;
+    width: 48%;
+    font-size: 1rem;
+}

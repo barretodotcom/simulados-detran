@@ -1,0 +1,272 @@
+[
+    {
+        "head": "01) O bom funcionamento do veículo depende de manutenções e trocas de vários componentes, líquidos e lubrificantes. Indique abaixo os itens que devem ser verificados com maior frequência",
+        "options": [
+            "A) Nível de óleo da caixa de câmbio e lonas de freio.",
+            "B) Nível de óleo do motor, nível de água do sistema de arrefecimento e calibragem dos pneus.",
+            "C) Filtro de combustível e bomba d'água.",
+            "D) Filtro de ar e velas de ignição."
+        ]
+    },
+    {
+        "head": "02) Os gases gerados pelo motor são eliminados",
+        "options": [
+            "A) Pela ventilação do motor.",
+            "B) Pelo silenciador.",
+            "C) Pelo escapamento.",
+            "D) Pela ventoinha."
+        ]
+    },
+    {
+        "head": "03) A falta de balanceamento das rodas pode acarretar",
+        "options": [
+            "A) Direção dura.",
+            "B) Trepidações no volante.",
+            "C) Rangido dos pneus nas curvas.",
+            "D) Chassi deformado."
+        ]
+    },
+    {
+        "head": "04) O sistema utilizado para um veículo percorrer uma trajetória circular é o de",
+        "options": [
+            "A) Direção.",
+            "B) Elétrico.",
+            "C) Arrefecimento.",
+            "D) Transmissão."
+        ]
+    },
+    {
+        "head": "05) O filtro de ar tem como função",
+        "options": [
+            "A) Filtrar o ar que refrigera o motor.",
+            "B) Filtrar o combustível.",
+            "C) Filtrar o óleo lubrificante.",
+            "D) Filtrar o ar que vai para a câmara de explosão do motor."
+        ]
+    },
+    {
+        "head": "06) A vela de ignição tem como função",
+        "options": [
+            "A) Provocar uma centelha elétrica na câmara de explosão.",
+            "B) Interromper a corrente elétrica.",
+            "C) Aquecer o combustível.",
+            "D) Aquecer o ar da câmara de explosão."
+        ]
+    },
+    {
+        "head": "07) A função do silenciador no veículo é",
+        "options": [
+            "A) Criar a centelha necessária para a explosão da mistura de ar e combustível.",
+            "B) Permitir uma partida suave do veículo.",
+            "C) Diminuir os ruídos gerados pelas explosões do carburante no motor.",
+            "D) Reduzir, drasticamente, os níveis de emissão de gases."
+        ]
+    },
+    {
+        "head": "08) A finalidade do filtro de combustível é",
+        "options": [
+            "A) Controlar a pressão do combustível.",
+            "B) Evitar o excesso de combustível.",
+            "C) Reter as impurezas do ar.",
+            "D) Reter as impurezas do combustível."
+        ]
+    },
+    {
+        "head": "09) A finalidade do sistema de arrefecimento é",
+        "options": [
+            "A) Controlar as rotações do motor.",
+            "B) Evitar o atrito das peças móveis do motor.",
+            "C) Controlar a temperatura do fluido de arrefecimento do motor.",
+            "D) Aumentar a potência do motor."
+        ]
+    },
+    {
+        "head": "10) O sistema de lubrificação tem a função de",
+        "options": [
+            "A) Aquecer as peças móveis do motor.",
+            "B) Alimentar o atrito e esquentar o motor para obter maior potência.",
+            "C) Reduzir a emissão de gases poluentes.",
+            "D) Reduzir o atrito entre as peças móveis e dissipar o calor gerado em razão do funcionamento do motor."
+        ]
+    },
+    {
+        "head": "11) Um dos cuidados que se deve ter periodicamente com o veículo é",
+        "options": [
+            "A) Lavar os tapetes para evitar ferrugem.",
+            "B) Trocar a água do radiador mensalmente.",
+            "C) Lavar os pneus evitando derrapagens.",
+            "D) Substituir os filtros de óleo e de ar."
+        ]
+    },
+    {
+        "head": "12) Classificação SAE e API estão relacionadas a qual fluido utilizado no veículo",
+        "options": [
+            "A) Combustível.",
+            "B) Lubrificante.",
+            "C) Água do sistema de arrefecimento.",
+            "D) Líquido do ar condicionado."
+        ]
+    },
+    {
+        "head": "13) O freio de estacionamento tem atuação",
+        "options": [
+            "A) Nas rodas dianteiras.",
+            "B) Na transmissão.",
+            "C) Nas rodas traseiras.",
+            "D) Nas rodas traseiras e dianteiras."
+        ]
+    },
+    {
+        "head": "14) O instrumento do painel que indica a velocidade desenvolvida pelo veículo é o",
+        "options": [
+            "A) Odômetro.",
+            "B) Tacógrafo.",
+            "C) Velocímetro.",
+            "D) Manômetro."
+        ]
+    },
+    {
+        "head": "15) O sistema, cuja finalidade é absorver os impactos provocados pelas irregularidades da pavimentação, chama-se",
+        "options": [
+            "A) Diferencial.",
+            "B) Direção.",
+            "C) Transmissão.",
+            "D) Suspensão."
+        ]
+    },
+    {
+        "head": "16) A peça mais pesada do motor chama-se",
+        "options": [
+            "A) Cilindros ou camisas.",
+            "B) Bloco do motor.",
+            "C) Tampão.",
+            "D) Cárter."
+        ]
+    },
+    {
+        "head": "17) O sistema que mantém a temperatura do motor, sempre, em condições de funcionamento chama-se",
+        "options": [
+            "A) Alimentação.",
+            "B) Elétrico.",
+            "C) Arrefecimento.",
+            "D) Inflamação."
+        ]
+    },
+    {
+        "head": "18) Para reduzir o consumo de combustível e a poluição do meio ambiente é recomendável",
+        "options": [
+            "A) Manter o sistema de alimentação regulado.",
+            "B) Efetuar troca das pastilhas de freios.",
+            "C) Efetuar troca do óleo lubrificante.",
+            "D) Verificar a carga da bateria.    1B, 2C, 3B, 4A, 5D, 6A, 7C, 8D, 9C, 10D, 11D, 12B, 13C, 14C, 15D, 16B, 17C, 18A, 19C, 20A, 21B, 22B, 23B, 24C, 25D, 26D, 27C, 28A, 29D, 30A   13"
+        ]
+    },
+    {
+        "head": "19) Para que ocorra a combustão interna em um motor são necessários os seguintes elementos",
+        "options": [
+            "A) Combustível e água.",
+            "B) Combustível e vapor de água.",
+            "C) Ar e combustível.",
+            "D) Água e Nitrogênio."
+        ]
+    },
+    {
+        "head": "20) A função da caixa de câmbio é",
+        "options": [
+            "A) Adequar a marcha à força ou a velocidade do veículo.",
+            "B) Aumentar ou diminuir o aquecimento do motor.",
+            "C) Diminuir o atrito dos pneus nas curvas.",
+            "D) Diminuir o desgaste da embreagem."
+        ]
+    },
+    {
+        "head": "21) O sistema que tem como finalidade diminuir a velocidade ou parar o veículo chama-se",
+        "options": [
+            "A) Sistema de alimentação.",
+            "B) Sistema de freios.",
+            "C) Sistema de distribuição.",
+            "D) Sistema de lubrificação."
+        ]
+    },
+    {
+        "head": "22) O filtro de óleo lubrificante do motor tem a função de",
+        "options": [
+            "A) Tornar o óleo mais fino.",
+            "B) Reter as impurezas do óleo.",
+            "C) Tornar o óleo mais viscoso.",
+            "D) Manter o nível do óleo."
+        ]
+    },
+    {
+        "head": "23) O conjunto de peças que serve para ligar e desligar a força motriz à caixa de marchas, chama-se",
+        "options": [
+            "A) Volante do motor.",
+            "B) Embreagem.",
+            "C) Diferencial.",
+            "D) Semi-árvore."
+        ]
+    },
+    {
+        "head": "24) A peça que fecha a parte inferior do motor e serve como reservatório e coletor de óleo lubrificante chama-se",
+        "options": [
+            "A) Tampão.",
+            "B) Tanque de combustível.",
+            "C) Cárter.",
+            "D) Pistão."
+        ]
+    },
+    {
+        "head": "25) O tempo do motor no qual a mistura se inflama, chama-se",
+        "options": [
+            "A) Admissão.",
+            "B) Compressão.",
+            "C) Descarga.",
+            "D) Explosão."
+        ]
+    },
+    {
+        "head": "26) Pneus dianteiros com calibragem muito abaixo do normal podem acarretar",
+        "options": [
+            "A) Desgastes prematuros dos mesmos.",
+            "B) Estabilidade comprometida.",
+            "C) Dificuldades nas manobras.",
+            "D) Todas as opções estão corretas."
+        ]
+    },
+    {
+        "head": "27) A aplicação de película não-refletiva no vidro traseiro é permitida desde que seu índice de transparência não seja inferior a",
+        "options": [
+            "A) 75% (setenta e cinco porcento).",
+            "B) 70% (setenta porcento).",
+            "C) 28% (vinte e oito porcento).",
+            "D) 25% (vinte e cinco porcento)."
+        ]
+    },
+    {
+        "head": "28) O distribuidor faz parte do sistema",
+        "options": [
+            "A) Elétrico.",
+            "B) Automático.",
+            "C) Transmissão.",
+            "D) Arrefecimento."
+        ]
+    },
+    {
+        "head": "29) Devo trocar o extintor de incêndio do meu veículo automotor",
+        "options": [
+            "A) Após o uso.",
+            "B) Se apresentar alguma irregularidade.",
+            "C) No vencimento do teste hidrostático.",
+            "D) Todas as alternativas estão corretas."
+        ]
+    },
+    {
+        "head": "30) Os ruídos emitidos pelo funcionamento do motor de um veículo são reduzidos pelo",
+        "options": [
+            "A) Silenciador.",
+            "B) Radiador.",
+            "C) Catalisador.",
+            "D) Carburador."
+        ]
+    }
+]

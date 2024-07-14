@@ -1,0 +1,391 @@
+[
+    {
+        "head": "1) Qual a necessidade de sinalizar o local do acidente:",
+        "options": [
+            "A) Para que não ocorram mais acidentes.",
+            "B) Para cumprir a lei",
+            "C) Para que possa ser ajudado por outros.",
+            "D) Para que os outros condutores possam não ter conhecimento prévio do acidente."
+        ],
+        "answer": 0
+    },
+    {
+        "head": "2) O que não deve ser feito em caso de acidente:",
+        "options": [
+            "A) Parar o veículo em local seguro e sinalizar.",
+            "B) Usar lanterna ou faróis de carro para iluminar a área.",
+            "C) Fazer uso de um fósforo ou uma chama de fogo exposta.",
+            "D) Transportar a vítima para o hospital adequadamente."
+        ],
+        "answer": 2
+    },
+    {
+        "head": "3) Quem deve ser socorrido em primeiro lugar, em caso de acidente:",
+        "options": [
+            "A) Os que estão sentindo muita dor.",
+            "B) Os mais nervosos.",
+            "C) Os mais idosos.",
+            "D) Os que estão sangrando muito."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "04) Sendo necessário dirigir com forte neblina, o condutor deve acender:",
+        "options": [
+            "A) O pisca-alerta",
+            "C) O farol alto",
+            "B) O farol baixo",
+            "D) As luzes internas"
+        ],
+        "answer": 1
+    },
+    {
+        "head": "05)  Dirigindo por uma via urbana, a uma distância de cerca de 50 m de um cruzamento, você percebe a luz amarela do semáforo. Nessa situação você deve:",
+        "options": [
+            "A) Buzinar e completar a travessia.",
+            "B) Aumentar a velocidade do seu veículo.",
+            "C) Diminuir a velocidade do seu veículo.",
+            "D) Manter a atenção, reduzir a marcha do seu veículo e parar."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "06) Uma das causas de abalroamento nos cruzamentos é:",
+        "options": [
+            "A) Boa visibilidade",
+            "B) Desconhecimento das preferências",
+            "C) Conhecimento das técnicas de direção defensiva",
+            "D) Manobra esperada do outro veículo"
+        ],
+        "answer": 1
+    },
+    {
+        "head": "07) Você está se sentindo pressionado pelo seu chefe para cumprir a tempo os compromissos do dia, sendo que o trânsito está parado. Nessa situação você:",
+        "options": [
+            "A) Trafega na faixa de ônibus se esta estiver livre.",
+            "B) Passa pelo acostamento para ganhar tempo.",
+            "C) Mantém-se atento e tranqüilo, podendo ouvir uma música agradável.",
+            "D) Liga os faróis e buzina para que os outros dêem passagem."
+        ],
+        "answer": 2
+    },
+    {
+        "head": "08) O condutor para fazer a ultrapassagem de outro veículo em movimento, deverá:",
+        "options": [
+            "A) Certificar-se de que dispõe de espaço suficiente e de que a visibilidade lhe permite fazê-lo com segurança.",
+            "B) Ligar a luz de emergência e fazer a ultrapassagem rapidamente.",
+            "C) Buzinar e forçar a saída do veículo que estiver à sua frente para um dos lados da via.",
+            "D) Acender os faróis altos do seu veículo para chamar a atenção de outros condutores."
+        ],
+        "answer": 0
+    },
+    {
+        "head": "09) Dar passagem pela esquerda quando solicitado é:",
+        "options": [
+            "A) Uma regra para impedir a ocorrência de acidentes.",
+            "B) Opcional, sendo uma questão de cortesia.",
+            "C) Uma infração de trânsito.",
+            "D) Um dever do condutor."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "10) Nas rodovias, é dever de todo condutor de veículo:",
+        "options": [
+            "A) Dar passagem, pela esquerda, ou pela direita quando solicitado.",
+            "B) Transitar com o veículo sempre na faixa da direita.",
+            "C) Quando necessitar fazer uma conversão à esquerda, usar o acostamento aguardando a oportunidade segura para cruzar a pista.",
+            "D) Transitar bem próximo ao veículo da frente."
+        ],
+        "answer": 2
+    },
+    {
+        "head": "11) O álcool deixa o condutor:",
+        "options": [
+            "A) Esperto a ponto de reagir mais rápido",
+            "B) Motivado e mais ágil em situação de risco",
+            "C) Capaz de julgar erradamente a velocidade e o tempo",
+            "D) Com atenção difusa e concentrada"
+        ],
+        "answer": 2
+    },
+    {
+        "head": "12) Não são condições adversas:",
+        "options": [
+            "A) Luz e tempo",
+            "B) Estrada e tráfego",
+            "C) Veículo e condutor",
+            "D) Passeio e veículo"
+        ],
+        "answer": 3
+    },
+    {
+        "head": "13) São condições adversas de luz capazes de provocar acidentes:",
+        "options": [
+            "A) A intensidade da luz solar.",
+            "B) A intensidade da luz artificial.",
+            "C) O ofuscamento.",
+            "D) Todas as alternativas estão corretas."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "14) Você está voltando de um churrasco por uma rodovia, quando sente uma indisposição física. Nessa situação você:",
+        "options": [
+            "A) Ignora o fato e segue seu caminho, antes que escureça.",
+            "B) Procura um medicamento no porta-luvas, ao mesmo tempo que dirige.",
+            "C) Continua o trajeto devagar, com as luzes de emergência (pisca-alert",
+            "a) acionadas.",
+            "D) Sinaliza, pára no acostamento, liga o pisca-alerta e aguarda até se recuperar."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "15) Você dirige em uma via de pista dupla e percebe um ônibus que está parado na faixa da direita, aguardando alguns passageiros descerem. De repente, duas pessoas aparecem pela lateral dianteira do ônibus, atravessando a rua na sua frente, fora da faixa de segurança, você:",
+        "options": [
+            "A) Acelera para aproveitar o semáforo verde.",
+            "B) Ignora os pedestres e segue em frente.",
+            "C) Redobra a atenção e dá prioridade aos pedestres.",
+            "D) Buzina e faz prevalecer sua prioridade."
+        ],
+        "answer": 2
+    },
+    {
+        "head": "16) Após aguardar a abertura do semáforo em um cruzamento, você faz uma conversão à direita e encontra um pedestre efetuando a travessia da via. Nessa situação você:",
+        "options": [
+            "A) Aguarda o pedestre concluir a travessia.",
+            "B) Buzina para apressar o pedestre.",
+            "C) Pisca os faróis para alertar o pedestre que você vai passar.",
+            "D) Freia bruscamente para dar um susto no pedestre."
+        ],
+        "answer": 0
+    },
+    {
+        "head": "17) Dentre as alternativas, uma situação que representa um  procedimento correto na condução de um veículo, além de demonstrar respeito aos demais usuários da via:",
+        "options": [
+            "A) Sinalizar com antecedência todas as manobras que for realizar.",
+            "B) Dar preferência aos demais usuários da via em qualquer cruzamento.",
+            "C) Acionar as luzes de emergência (pisca-alert",
+            "a) sempre que necessitar parar em fila dupla.",
+            "D) Buzinar sempre que perceber um pedestre tentando efetuar a travessia."
+        ],
+        "answer": 0
+    },
+    {
+        "head": "18) Um trecho de uma via de mão dupla é dividido ao centro por linha amarela seccionada; isso significa que nesse trecho é:",
+        "options": [
+            "A) Proibido ultrapassar pela esquerda.",
+            "B) Proibido ultrapassar.",
+            "C) Proibido ultrapassar pela direita.",
+            "D) Permitido ultrapassar."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "19) Segundo a classificação do Código de Trânsito Brasileiro, uma via  destinada apenas ao acesso às áreas restritas é chamada de:",
+        "options": [
+            "A) Preferencial.",
+            "B) Trânsito rápido.",
+            "C) Particular.",
+            "D) Local."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "20) \u003cParada Obrigatória\u003e é uma placa de:",
+        "options": [
+            "A) Advertência.",
+            "B) Regulamentação.",
+            "C) Indicação.",
+            "D) Educativa."
+        ],
+        "answer": 1
+    },
+    {
+        "head": "21) As características de um veículo podem ser modificadas quando:",
+        "options": [
+            "A) Houver prévia permissão da autoridade de trânsito.",
+            "B) O veículo tiver o certificado de registro e licenciamento em ordem.",
+            "C) O proprietário “cansar” da cor, do modelo.",
+            "D) Sofrer um acidente grave."
+        ],
+        "answer": 0
+    },
+    {
+        "head": "22) Qual o total de pontos das infrações:",
+        "options": [
+            "A) 18",
+            "B) 19",
+            "C) 20",
+            "D) 21"
+        ],
+        "answer": 1
+    },
+    {
+        "head": "23) Em uma via urbana coletora sem sinalização, o condutor poderá atingir a velocidade de:",
+        "options": [
+            "A) 20 km/h.",
+            "B) 30 km/h",
+            "C) 40 km/h.",
+            "D) 60 km/h."
+        ],
+        "answer": 2
+    },
+    {
+        "head": "24) O estacionamento sobre o passeio é:",
+        "options": [
+            "A) Permitido apenas para embarque e desembarque de passageiros.",
+            "B) Permitido na frente das escolas.",
+            "C) Uma infração de trânsito e um desrespeito aos direitos dos pedestres.",
+            "D) Sempre permitido, desde que se reserve espaço suficiente para a passagem de pedestres."
+        ],
+        "answer": 2
+    },
+    {
+        "head": "25) As placas de sinalização, quanto à sua função, podem ser de:",
+        "options": [
+            "A) Regulamentação e educativa.",
+            "B) Advertência e indicação.",
+            "C) Indicação e regulamentação.",
+            "D) Regulamentação, advertência e indicação."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "26) Em um cruzamento, o veículo que se aproximar pela via à sua direita, terá  preferência apenas se:",
+        "options": [
+            "A) Estiver transportando passageiros.",
+            "B) Estiver transportando cargas perigosas.",
+            "C) Estiver transitando em maior velocidade.",
+            "D) O cruzamento não for sinalizado."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "27) Assinale a resposta certa. Classificam-se as infrações punidas com multa em quantas categorias:",
+        "options": [
+            "A)"
+        ],
+        "answer": 3
+    },
+    {
+        "head": "29) Diante da placa ao lado (R-5a), você entende que é proibido:",
+        "options": [
+            "A) Realizar conversão à esquerda.",
+            "B) Passar sobre o canteiro central.",
+            "C) Realizar conversão à direita.",
+            "D) Dar meia volta ou retornar à esquerda."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "30) Qual o significado da placa R-36a:",
+        "options": [
+            "A) Ciclista à direita, Pedestre à esquerda",
+            "B) Ciclista à direita, Pedestre à direita",
+            "C) Ciclistas à esquerda, Pedestres à direita",
+            "D) Ciclista à esquerda, Pedestre à esquerda"
+        ],
+        "answer": 2
+    },
+    {
+        "head": "31) O que indica a placa R- 33:",
+        "options": [
+            "A)  Interseção em círculo",
+            "B) Girador.",
+            "C)  Rotatória",
+            "D)  Sentido de circulação na rotatória"
+        ],
+        "answer": 3
+    },
+    {
+        "head": "32) O que indica a placa A-6:",
+        "options": [
+            "A)  Cruzamento.",
+            "B)  Encruzilhada.",
+            "C)  Cruzamento de vias.",
+            "D)  Cruzamento de ruas."
+        ],
+        "answer": 2
+    },
+    {
+        "head": "33) Diante da placa ao lado (A-10a), você entende que existe um entroncamento oblíquo:",
+        "options": [
+            "A) À esquerda, inesperado ou de difícil  identificação a distância.",
+            "B) Sinuoso, à esquerda.",
+            "C) À esquerda, seguido de obstáculo.",
+            "D) Com semáforo."
+        ],
+        "answer": 0
+    },
+    {
+        "head": "34)  O que indica a placa A-15:",
+        "options": [
+            "A) Parada obrigatória.",
+            "B) Parada obrigatória adiante.",
+            "C) Parada obrigatória à frente.",
+            "D) Parada permitida."
+        ],
+        "answer": 2
+    },
+    {
+        "head": "35) O que indica a placa A-17:",
+        "options": [
+            "A) Lombada ou saliência.",
+            "B) Pista irregular",
+            "C) Curva irregular.",
+            "D) Saliência ou lombada."
+        ],
+        "answer": 1
+    },
+    {
+        "head": "36) O que indica a placa S-03:",
+        "options": [
+            "A)  Serviço De Borracharia",
+            "B)  Mecânico",
+            "C)  Chave De Fenda",
+            "D)  Serviço Mecânico"
+        ],
+        "answer": 3
+    },
+    {
+        "head": "37) A má conservação e a regulagem inadequada dos veículos:",
+        "options": [
+            "A) Contribuem para a poluição da água, apenas.",
+            "B) Contribuem para a poluição do solo, apenas.",
+            "C) Não agridem o meio ambiente.",
+            "D) Contribuem,  principalmente,  para a poluição do ar e a poluição sonora."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "38) O uso da buzina de forma irregular (no período noturno ou em locais não permitidos) constitui-se em infração de trânsito:",
+        "options": [
+            "A) Grave, que implica na retenção do veículo.",
+            "B) Média.",
+            "C) Gravíssima.",
+            "D) Além de ser um desrespeito aos direitos dos cidadãos."
+        ],
+        "answer": 3
+    },
+    {
+        "head": "39) O sistema elétrico é responsável pelo acionamento:",
+        "options": [
+            "A) Do freio de pedal",
+            "B) Do cabo de embreagem.",
+            "C) Do carburador",
+            "D) Do sistema de partida do veículo"
+        ],
+        "answer": 3
+    },
+    {
+        "head": "40) Chave de roda, chave de fenda, velocímetro e limpador de pára-brisa são:",
+        "options": [
+            "A) Peças auxiliares.",
+            "B) Equipamentos obrigatórios do veículo.",
+            "C) Acessórios.",
+            "D) Instrumentos complementares.  “Tenha dedicAÇÃO para obter sua aprovAÇÃO!!!”"
+        ],
+        "answer": 1
+    }
+]
