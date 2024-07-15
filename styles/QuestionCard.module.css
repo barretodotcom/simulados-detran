@@ -1,5 +1,5 @@
 .card{
-    width: 900px;
+    width: 100%;
 }
 
 .head{
@@ -40,4 +40,10 @@
 
 .wrong {
     background-color: red;
+}
+
+@media (max-width:649px) {
+    .head{
+        width: 100%;
+    }
 }
